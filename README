@@ -1,0 +1,8 @@
+# Dockerfiles for PHP
+
+Just my docker files for Golang
+
+```
+docker build -t wdalmut/go:1.4.x .
+```
+
